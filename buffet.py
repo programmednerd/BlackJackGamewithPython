@@ -2,7 +2,7 @@ restaurant_menu = ('pizza', 'pasta', 'toasties', 'salads', 'desserts')
 for food in restaurant_menu:
     print(f"We currently offer {food.title()}.")
 
-restaurant_menu = ('pizza', 'pasta', 'fries', 'cakes', 'coffie')
+restaurant_menu = ('pizza', 'pasta', 'french fries', 'cakes', 'coffie')
 for food in restaurant_menu:
     print(f"New restaurant offer: {food.title()}.")
 
