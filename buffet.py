@@ -14,7 +14,7 @@ for food in restaurant_menu:
 
 
 
-pizzas = ['margarita', '4 cheese', 'pepperoni', 'creamy']
+pizzas = ['margarita', '4 cheese', 'prosciutto', 'creamy']
 for pizza in pizzas:
     if pizza == '4 cheese':
         print(pizza.upper())
