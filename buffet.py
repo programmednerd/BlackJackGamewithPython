@@ -22,8 +22,8 @@ for pizza in pizzas:
         print(pizza.title())
 
 pizza = 'margarita'
-print("Is pizza == 'pepperoni'? I predict True")
-print(pizza == 'pepperoni')
+print("Is pizza == 'prosciutto'? I predict True")
+print(pizza == 'prosciutto')
 
 print("\nIs pizza == 'margarita' I predict True")
 print(pizza == 'margarita')
@@ -32,7 +32,7 @@ print(pizza == 'margarita')
 
 age = 16
 
-if age == 21:
+if age == 18:
     print("You're legal to drink")
 else:
     print("You need permission from your parents!")
